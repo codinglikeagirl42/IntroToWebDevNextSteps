@@ -1,0 +1,34 @@
+body {
+    margin: auto;
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48;
+    color: #60266d;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 24;
+    color: #0f3010;
+    font-family: Arial;
+}
+
+img {
+    align-self: center;
+    border-style: ridge;
+    border-color: white;
+    border-width: thick;
+}
+
+h3  {
+    font-size: 30;
+    font-weight:lighter;
+}
+
+p   {
+    font-size: 60;
+}
