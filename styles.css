@@ -31,4 +31,13 @@ h3  {
 
 p   {
     font-size: 60;
+    color: rgb(255, 0, 35)
 }
+
+.test {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+
